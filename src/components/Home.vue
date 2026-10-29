@@ -640,7 +640,12 @@ body {
 /* สไตล์สำหรับรูป */
 .img-logo {
   max-width: 70%;
-  filter: drop-shadow(0 0 10px rgba(255, 215, 0, 1));
+}
+
+ @media (min-width: 500px) {
+  .img-logo{
+    width: 25%;
+  }
 }
 
 /* ข้อความที่กระพริบ */
