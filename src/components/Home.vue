@@ -1,6 +1,6 @@
 <template>
   <div class="container-home">
-    <img class="img-logo" :src="require('@/assets/mercy-logo-f.png')" alt="Background Image"/>
+    <img class="img-logo" :src="require('@/assets/Moji.png')" alt="Background Image"/>
     <div>    
       <span class="text1">เว็บตรงแท้ อันดับ 1</span>
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
@@ -151,9 +151,9 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "189,631",
       slides: [
-        { src: 'certi.jpg', alt: 'Image 3' },
-        { src: 'photo_6228624588875613744_y.jpg', alt: 'Image 1' },
-        { src: 'photo_6228624588875613745_y.jpg', alt: 'Image 2' },      
+        { src: 'SD1.png', alt: 'Image 3' },
+        { src: 'SD2.png', alt: 'Image 1' },
+        { src: 'SD3.png', alt: 'Image 2' },      
       ],
       topUsersData : [
       { userName: "rosaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
